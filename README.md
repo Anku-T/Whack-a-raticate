@@ -10,5 +10,14 @@ It uses customtkinter/tkinter for gui, pygame for sound and threading to run the
 2. Run Whack a mole.py<br>
 3. Start Whacking!<br>
 
+<h3> Required Packages </h3>
+1. Customtkinter <br>
+2. Tkinter <br>
+3. Pillow <br>
+4. Random <br>
+5. Time <br>
+6. Threading <br>
+7. Pygame <br>
+
 <h3>Controls</h3>
 Mouse/Touch Screen
